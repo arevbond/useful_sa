@@ -1,3 +1,6 @@
+## Полезная информация 
+***
+
 1. [Задачи и документальное обеспечение системного администрирования](topics/Tasks_and_documentation_of_system_administration.md)
 2. [Основные настройки ОС](topics/Basic_OS_settings.md)
 3. [Стандарты на расположение каталогов файловой системы](topics/File_system_directory_layout_standards.md)
